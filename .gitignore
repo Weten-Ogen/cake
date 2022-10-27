@@ -1,0 +1,7 @@
+venv
+env
+*.db
+*secrets.txt
+*.tar-z
+*.zip
+
